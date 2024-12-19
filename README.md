@@ -11,6 +11,8 @@ Menambahkan Menu Ubah PIN
 
 ![ubah PIN](https://github.com/user-attachments/assets/9861ef91-da82-40c4-a59b-e2ffa892f9dd)
 
+Menambahkan public static final double MINIMUM_BALANCE
+![final](https://github.com/user-attachments/assets/f44edf72-512b-4c59-85da-926353332da8)
 
 Deposit.java
 ![deposit](https://github.com/user-attachments/assets/6eed69a9-b801-4b8e-a887-5e6e400dd4ff)
