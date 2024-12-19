@@ -4,6 +4,12 @@ Account.java
 ![acoount1](https://github.com/user-attachments/assets/d9667816-79b0-42fc-95cc-d10942c6d039)
 ![account2](https://github.com/user-attachments/assets/d2da9db2-464c-411f-a4ac-15e2cef1ce43)
 
+Pada Bagian Account.java kita menambahkan changePin()
+![change](https://github.com/user-attachments/assets/eabf1330-fbb6-485b-b72b-a8fbbbc2a5b8)
+Menambahkan Menu Ubah PIN
+![ubah PIN](https://github.com/user-attachments/assets/9861ef91-da82-40c4-a59b-e2ffa892f9dd)
+
+
 Deposit.java
 ![deposit](https://github.com/user-attachments/assets/6eed69a9-b801-4b8e-a887-5e6e400dd4ff)
 
